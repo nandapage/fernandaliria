@@ -1,3 +1,8 @@
 :root{
-    --cor-de-fundo:#ffffff;
+    --cor-de-fundo: #9f67a7;
+    --branco:hsl(0, 0%, 100%);
+    --laranja:#eb9800;
+    --azul-degrade:linear-gradient(97deg, #002f52 35%, #326589 165%);
+    --fonte-principal:"poppins";
+    --azul:#002f52;
 }
